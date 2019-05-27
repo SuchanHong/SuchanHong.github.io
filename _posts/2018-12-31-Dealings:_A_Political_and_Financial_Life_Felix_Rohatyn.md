@@ -1,4 +1,4 @@
-— 
+---
 
 layout: post
 
@@ -10,7 +10,7 @@ tags: test
 
 author: suchan_hong
 
-— 
+---
 
 
 
